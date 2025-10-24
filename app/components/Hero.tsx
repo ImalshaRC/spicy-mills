@@ -32,7 +32,7 @@ const Hero = () => {
           {/* Main heading */}
           <ScrollAnimation animation="fadeInUp" delay={0}>
             <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold text-gray-900 mb-6">
-              <span className="block">Vivonta</span>
+              <span className="block">Ceylon Hills</span>
               <span className="block gradient-text">Green Tech Consultants</span>
             </h1>
           </ScrollAnimation>

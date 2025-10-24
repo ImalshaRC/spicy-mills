@@ -4,7 +4,7 @@ const About = () => {
   const values = [
     {
       title: "Vision Statement",
-      content: "At Vivonta, we envision empowering the plantation agriculture sector in Sri Lanka to attain global excellence in plantations by leveraging competitive advantages.",
+      content: "At Ceylon Hills, we envision empowering the plantation agriculture sector in Sri Lanka to attain global excellence in plantations by leveraging competitive advantages.",
       icon: "🎯"
     },
     {
@@ -14,7 +14,7 @@ const About = () => {
     },
     {
       title: "Unique Selling Proposition",
-      content: "Vivonta leads the way in sustainable plantation agriculture with a focus on purposeful value chain management. Our commitment extends to creating an empowering environment for employees, fostering a pleasurable experience where they can recognize and maximize their value and potential.",
+      content: "Ceylon Hills leads the way in sustainable plantation agriculture with a focus on purposeful value chain management. Our commitment extends to creating an empowering environment for employees, fostering a pleasurable experience where they can recognize and maximize their value and potential.",
       icon: "💎"
     }
   ];
@@ -58,7 +58,7 @@ const About = () => {
         {/* Section Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6">
-            About Vivonta
+            About Ceylon Hills
           </h2>
           <p className="text-xl text-gray-600 max-w-4xl mx-auto">
             Your trusted partner in achieving sustainable competitive advantage in the realm of plantation agriculture
@@ -73,13 +73,13 @@ const About = () => {
             </h3>
             <div className="space-y-6 text-gray-600 leading-relaxed">
               <p>
-                Vivonta Green Tech Consultants (Private) Limited is your trusted partner in achieving sustainable competitive advantage in the realm of plantation agriculture. Specializing in providing comprehensive value chain services, we cater to individuals and organizations interested in establishing or managing plantation agri-businesses in Sri Lanka, as well as those with land-based investments.
+                Ceylon Hills Green Tech Consultants (Private) Limited is your trusted partner in achieving sustainable competitive advantage in the realm of plantation agriculture. Specializing in providing comprehensive value chain services, we cater to individuals and organizations interested in establishing or managing plantation agri-businesses in Sri Lanka, as well as those with land-based investments.
               </p>
               <p>
-                Our dedicated team, boasting a proven track record of success, is ready to assist local and international agricultural entrepreneurs. Whether you seek professional guidance to enhance your estate or plantation assets, Vivonta stands ready to assist.
+                Our dedicated team, boasting a proven track record of success, is ready to assist local and international agricultural entrepreneurs. Whether you seek professional guidance to enhance your estate or plantation assets, Ceylon Hills stands ready to assist.
               </p>
               <p>
-                What sets us apart is our commitment to being a one-stop-shop for all your plantation Agri value chain needs, offering a unique array of services. Connect with us through the "Contact Us" form on our website for a prompt and confidential response. Experience the Vivonta difference today as we work together to shape the future of sustainable agriculture.
+                What sets us apart is our commitment to being a one-stop-shop for all your plantation Agri value chain needs, offering a unique array of services. Connect with us through the "Contact Us" form on our website for a prompt and confidential response. Experience the Ceylon Hills difference today as we work together to shape the future of sustainable agriculture.
               </p>
             </div>
           </div>
@@ -187,7 +187,7 @@ const About = () => {
             Ready to Partner with Us?
           </h3>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            Join hundreds of successful agricultural businesses that trust Vivonta for their growth and development needs.
+            Join hundreds of successful agricultural businesses that trust Ceylon Hills for their growth and development needs.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a

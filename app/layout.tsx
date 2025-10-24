@@ -15,12 +15,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Vivonta Green Tech Consultants - Plantation Agriculture Excellence",
+  title: "Ceylon Hills - Plantation Agriculture Excellence",
   description: "Your Premier Destination for Fulfilling the Entire Spectrum of Core Value Chain Requirements in Sri Lankan Plantation Agriculture. Specializing in Tea, Rubber, Coconut, Cinnamon, Oil palm, and Forestry.",
   keywords: "plantation agriculture, tea, rubber, coconut, cinnamon, oil palm, forestry, Sri Lanka, agricultural consulting",
-  authors: [{ name: "Vivonta Green Tech Consultants" }],
+  authors: [{ name: "Ceylon Hills" }],
   openGraph: {
-    title: "Vivonta Green Tech Consultants",
+    title: "Ceylon Hills",
     description: "Premier Destination for Plantation Agriculture Excellence in Sri Lanka",
     type: "website",
   },

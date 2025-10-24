@@ -54,13 +54,13 @@ const Contact = () => {
     {
       icon: "📧",
       title: "Email Us",
-      details: "info@vivonta.lk",
+      details: "info@ceylonhills.lk",
       description: "Send us an email anytime"
     },
     {
       icon: "📞",
       title: "Call Us",
-      details: "+94 11 234 5678",
+      details: "Contact us for details",
       description: "Mon-Fri 9AM-6PM"
     },
     {
@@ -72,7 +72,7 @@ const Contact = () => {
     {
       icon: "💬",
       title: "WhatsApp",
-      details: "+94 77 123 4567",
+      details: "Contact us for details",
       description: "Quick response guaranteed"
     }
   ];
@@ -154,7 +154,7 @@ const Contact = () => {
                       value={formData.mobile}
                       onChange={handleChange}
                       className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent transition-all duration-200"
-                      placeholder="+94 77 123 4567"
+                      placeholder="Enter your mobile number"
                     />
                   </div>
                   <div>
@@ -168,7 +168,7 @@ const Contact = () => {
                       value={formData.landline}
                       onChange={handleChange}
                       className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent transition-all duration-200"
-                      placeholder="+94 11 234 5678"
+                      placeholder="Enter your landline number"
                     />
                   </div>
                 </div>
@@ -278,7 +278,7 @@ const Contact = () => {
 
             {/* Additional Info */}
             <div className="bg-gradient-to-r from-green-500 to-green-600 rounded-2xl p-8 text-white">
-              <h3 className="text-2xl font-bold mb-4">Why Choose Vivonta?</h3>
+              <h3 className="text-2xl font-bold mb-4">Why Choose Ceylon Hills?</h3>
               <ul className="space-y-3">
                 <li className="flex items-center space-x-3">
                   <div className="w-2 h-2 bg-white rounded-full"></div>

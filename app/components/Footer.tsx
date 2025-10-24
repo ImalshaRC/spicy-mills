@@ -22,7 +22,7 @@ const Footer = () => {
     ],
     resources: [
       { name: 'Downloads', href: '#' },
-      { name: 'Vivonta Blog', href: '#' },
+      { name: 'Ceylon Hills Blog', href: '#' },
       { name: 'Gallery', href: '#' },
       { name: 'Join Us', href: '#' },
       { name: 'PPA Update', href: '#' },
@@ -55,10 +55,10 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center space-x-3 mb-6">
               <div className="w-12 h-12 bg-gradient-to-r from-green-500 to-green-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">V</span>
+                <span className="text-white font-bold text-xl">C</span>
               </div>
               <div>
-                <h3 className="text-2xl font-bold">Vivonta</h3>
+                <h3 className="text-2xl font-bold">Ceylon Hills</h3>
                 <p className="text-gray-400 text-sm">Green Tech Consultants</p>
               </div>
             </div>
@@ -68,11 +68,11 @@ const Footer = () => {
             <div className="space-y-2 text-gray-300">
               <p className="flex items-center space-x-2">
                 <span>📧</span>
-                <span>info@vivonta.lk</span>
+                <span>info@ceylonhills.lk</span>
               </p>
               <p className="flex items-center space-x-2">
                 <span>📞</span>
-                <span>+94 11 234 5678</span>
+                <span>Contact us for details</span>
               </p>
               <p className="flex items-center space-x-2">
                 <span>📍</span>
@@ -183,7 +183,7 @@ const Footer = () => {
               ))}
             </div>
             <div className="text-gray-400 text-sm">
-              <p>© {currentYear} Vivonta Green Tech Consultants (Pvt) Ltd. All rights reserved.</p>
+              <p>© {currentYear} Ceylon Hills Green Tech Consultants (Pvt) Ltd. All rights reserved.</p>
             </div>
           </div>
         </div>
@@ -193,7 +193,7 @@ const Footer = () => {
       <div className="bg-gray-950 py-4">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col md:flex-row justify-between items-center text-sm text-gray-400">
-            <p>Website by ASaNi | Greening the future of perennial agriculture</p>
+            <p>Website by Ceylon Hills</p>
             <div className="flex space-x-6 mt-2 md:mt-0">
               <a href="#" className="hover:text-green-400 transition-colors">Privacy Policy</a>
               <a href="#" className="hover:text-green-400 transition-colors">Terms of Service</a>
