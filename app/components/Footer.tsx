@@ -59,7 +59,7 @@ const Footer = () => {
               </div>
               <div>
                 <h3 className="text-2xl font-bold">Ceylon Hills</h3>
-                <p className="text-gray-400 text-sm">Green Tech Consultants</p>
+                <p className="text-gray-400 text-sm">Plantations</p>
               </div>
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
@@ -183,7 +183,7 @@ const Footer = () => {
               ))}
             </div>
             <div className="text-gray-400 text-sm">
-              <p>© {currentYear} Ceylon Hills Green Tech Consultants (Pvt) Ltd. All rights reserved.</p>
+              <p>© {currentYear} Ceylon Hills Plantations (Pvt) Ltd. All rights reserved.</p>
             </div>
           </div>
         </div>

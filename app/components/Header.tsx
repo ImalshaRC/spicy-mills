@@ -45,7 +45,7 @@ const Header = () => {
                   Ceylon Hills
                 </h1>
                 <p className="text-xs text-gray-600 -mt-1">
-                  Green Tech Consultants
+                  Plantations
                 </p>
               </div>
             </Link>

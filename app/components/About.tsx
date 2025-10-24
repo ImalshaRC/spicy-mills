@@ -73,7 +73,7 @@ const About = () => {
             </h3>
             <div className="space-y-6 text-gray-600 leading-relaxed">
               <p>
-                Ceylon Hills Green Tech Consultants (Private) Limited is your trusted partner in achieving sustainable competitive advantage in the realm of plantation agriculture. Specializing in providing comprehensive value chain services, we cater to individuals and organizations interested in establishing or managing plantation agri-businesses in Sri Lanka, as well as those with land-based investments.
+                Ceylon Hills Plantations (Private) Limited is your trusted partner in achieving sustainable competitive advantage in the realm of plantation agriculture. Specializing in providing comprehensive value chain services, we cater to individuals and organizations interested in establishing or managing plantation agri-businesses in Sri Lanka, as well as those with land-based investments.
               </p>
               <p>
                 Our dedicated team, boasting a proven track record of success, is ready to assist local and international agricultural entrepreneurs. Whether you seek professional guidance to enhance your estate or plantation assets, Ceylon Hills stands ready to assist.
