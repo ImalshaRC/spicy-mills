@@ -15,14 +15,26 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ceylon Hills - Plantation Agriculture Excellence",
-  description: "Your Premier Destination for Fulfilling the Entire Spectrum of Core Value Chain Requirements in Sri Lankan Plantation Agriculture. Specializing in Tea, Rubber, Coconut, Cinnamon, Oil palm, and Forestry.",
-  keywords: "plantation agriculture, tea, rubber, coconut, cinnamon, oil palm, forestry, Sri Lanka, agricultural consulting",
-  authors: [{ name: "Ceylon Hills" }],
+  title: "Ceylon Hills Plantations - Sri Lankan Agricultural Excellence",
+  description: "Ceylon Hills Plantations - Your Premier Destination for Plantation Agriculture Excellence in Sri Lanka. Specializing in Tea, Rubber, Coconut, Cinnamon, Oil Palm, and Forestry Management.",
+  keywords: "Ceylon Hills Plantations, plantation agriculture, tea plantations, rubber cultivation, coconut farming, cinnamon production, oil palm, forestry management, Sri Lanka agriculture",
+  authors: [{ name: "Ceylon Hills Plantations" }],
   openGraph: {
-    title: "Ceylon Hills",
+    title: "Ceylon Hills Plantations - Agricultural Excellence",
     description: "Premier Destination for Plantation Agriculture Excellence in Sri Lanka",
     type: "website",
+    siteName: "Ceylon Hills Plantations",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
   },
 };
 
